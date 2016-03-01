@@ -1,2 +1,2 @@
-# muvtori
-Teszt github, újra feltötés. Proba 2
+# Művtöri projekt
+Ezt a projektet lassan egy hónapja "csináljuk", de még mindig semmire nem jutottunk.
